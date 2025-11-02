@@ -1,3 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Konuşma</string>
+    <string name="app_name" translatable="false">Konuşma</string>
+    <string name="type_something">Type something…</string>
+    <string name="voice">Voice</string>
+    <string name="rate">Rate</string>
+    <string name="pitch">Pitch</string>
+    <string name="clear_text">Clear text</string>
+    <string name="saved_files">Saved files</string>
+    <string name="theme">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="auto">Auto</string>
+    <string name="choose_lang_reg">Choose language and region</string>
+    <string name="save_file">Save file</string>
+    <string name="file_name">File name</string>
+    <string name="dialog_button_save">Save</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="delete_prompt">Delete this file?</string>
+    <string name="dialog_button_delete">Delete</string>
+    <string name="dialog_button_no">No</string>
+    <string name="saving">Saving…</string>
+    <string name="choose_an_app">Choose an app</string>
+    <string name="deleted">Has been deleted.</string>
+    <string name="could_not_delete">Could not delete.</string>
+    <string name="file_saved">File has been saved.</string>
+    <string name="file_not_found">File not found.</string>
+    <string name="no_internet_conn">No internet connection.</string>
+    <string name="inv_request">The text is not valid.</string>
+    <string name="err_output">Audio output error.</string>
+    <string name="err_timeout">Network timeout error.</string>
+    <string name="err_not_installed_yet">Voice data has not been loaded yet.</string>
+    <string name="err_service">Service error.</string>
+    <string name="err_synthesis">Could not synthesize voice.</string>
+    <string name="err_generic">An error occurred.</string>
+    <string name="no_text_to_save">No text to save.</string>
+    <string name="no_text_to_speak">No text to speak.</string>
+    <string name="default_language">English</string>
+    <string name="default_region">United States</string>
+    <string name="complete_project">Complete project</string>
+    <string name="restart_project">Restart project</string>
+    <string name="cancel_project">Cancel project</string>
+    <string name="delete_project">Delete project</string>
+    <string name="continue_project">Continue project</string>
+    <string name="edit_project">Edit project</string>
+    <string name="my_projects">My projects</string>
+    <string name="projects_center">Projects Center</string>
+    <string name="no_projects">No projects have been created.</string>
 </resources>

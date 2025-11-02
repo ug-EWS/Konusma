@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/clear"
+        android:title="@string/clear_text" />
+    <item
+        android:id="@+id/saved"
+        android:title="@string/saved_files" />
+    <item
+        android:id="@+id/theme"
+        android:title="@string/theme">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/light"
+                    android:title="@string/light" />
+                <item
+                    android:id="@+id/dark"
+                    android:title="@string/dark" />
+                <item
+                    android:id="@+id/auto"
+                    android:title="@string/auto" />
+            </group>
+        </menu>
+    </item>
+</menu>
